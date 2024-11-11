@@ -160,5 +160,5 @@ local function init()
     print("Core initialized successfully.")
 end
 
--- Execute Initialization
+-- Initialization
 init()
